@@ -6,6 +6,10 @@ A modern, feature-rich task management application built with React and Vite. Ma
 ![Vite](https://img.shields.io/badge/Vite-4.4.0-purple)
 ![React Router](https://img.shields.io/badge/React_Router-7.9.3-red)
 
+
+![Uploading image.png…]()
+
+
 ## ✨ Features
 
 ### Core Functionality
